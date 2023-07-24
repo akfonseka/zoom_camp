@@ -1,0 +1,32 @@
+
+.DS_Store
+.idea
+*.tfstate
+*.tfstate.*
+**.terraform
+**.terraform.lock.*
+**google_credentials.json
+**logs/
+**.env
+**__pycache__/
+.history
+**/ny_taxi_postgres_data/*
+serving_dir
+.ipynb_checkpoints/
+!week_6_stream_processing/avro_example/data/rides.csv
+
+
+
+{
+  "type": "service_account",
+  "project_id": "dtc-de-akf",
+  "private_key_id": "aba5fbb7f56ee7938e76df0131433fe6a4bd8e91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5bCo1FBc/iQKH\n49PGkuaSrE+s5zxuyIgUmLoIhisSYtgEluAkZ4vTvORTlmLLFw1JGv0NNrQ14d8r\nIZFBLeqvRKV9sbDnSqmL/dPWOLp6w+sXjlQglnggtIVkvkOGCZhXPauIaJbmipFE\nLuo+/RReV4nfYceIcQZVg5bqW2+PxPJaasdPRGuxU5ZKBv7XqoUfzGaDt37GqaCN\nRW9LpCgfehFNALfEe0OnhTQlChVG7dNl1A3RdptOc7jPkr5TrxNt/OZuUIFZqS9Z\n4d3/1GFwlSNt/S6J3nfHWSaV05UunLzCtrCv9JQyMJludExh4sz2b7SSQ0LQKXPq\nXIdK9s9vAgMBAAECggEACg6CSYex7Rm+v+UM7ue3xru+xId0ISQSMV/JMz4npuMi\niTkvpfnRvSWxEpGFATPaXh0vHWDarFN4WawD50+Yu3HTMfqJuDm18WhObX99Kbxn\ni0sGaBARKuDvnTOukN4DW7P2Ejtt98oLL/IFdW4fhTBlQ27XtiA/MjMlY8eayObT\nhbZ4SpymVpnsTmY6i2qY5OJz34TnrKANacqVFmGErwT7iUbz/OQ6R4hr3NJcavjh\nRJh2n4jahChBxuNTWBwP1rPtKvIZ7+IF1HGrcsu5sx6iJ1BLDjTjN84gJsK2RkL2\nPn6Ki5VKQ81+CjppOcMBVDvk9OFg6AYgeWox42E4LQKBgQDb+Ci3vpNcHm6JRTeU\nZ/pxPKWCcjW9VTp2AIDI2LkqP3PXBPMUICVVJiMfYP225/s0X8a4DR7X+pk7RTpu\nq1eCfqu6P3x8EK1kJIoiAjT6ERzUFTM9R6SnpGhYP7SV1MHg1ip4vwH5Rogw0V6G\nDuePX94wkVDXWZ98GENdomDXTQKBgQDXy1+ygfeub1VWvtbEF6reqjGs8CQT8QD4\ngZrsKxGpm3voFhtywCgKrtmk5iub0TAuotNzOU6mDNIayeV+C0UrHRFMh5x275uh\nQiBkxnpQKD3YTJ79t+mx1m3fz06Qp/HxB4kCvpSg0dHVD9rK4pNOo9ccTyNWcJhD\nsTVWV6l7qwKBgF7BRJD6SDIrbcQ2C94i+FAlJsrNdfbMKvW/+7oJGaJoWPcry6ZE\nvrAyUHjo6AINZjnGdCy+giXZbn6IsMYRiw3MkR8W0AIFkRuNXe+OcdGy4288fqkM\nHpKUkNpK/vh4ANhgiUUgSrJdvrcAya4H55nsWyMixecuVTQ4o3RHSV4VAoGAColj\notO1xE6rXBD1a528OiMVSdxv5oleAsRRTDbOJfnxkuOBc5juW5cuCV8zwef08lIB\nAR9LN9BoceZpzj2+otxIe/QjL6uDbdxMuJ74WfGdE3KqULkqMATIWKVGsMmChsJX\nbkrf9vpHxJ+Bj2aAytY1KqyyjQXyaVu9vvmIzQECgYEAvLs6ExwgGiC5rJ/+NqVi\n1RBLWc1vLyz7Hz0KdA7qz2toHHZapYhh+f5uBDfEMGu2nTxhtKDcasNLvCjUfo+3\nzSbt1nhJ2kGc3o5H8QYfD3qLNIWzihZrAUT3P+FkWQ+ryctFx0UC1jLtrsr3cdxD\nDld1JdZCbf53X55s6JGBKTc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dtc-de-user@dtc-de-akf.iam.gserviceaccount.com",
+  "client_id": "116996534913667967616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dtc-de-user%40dtc-de-akf.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
